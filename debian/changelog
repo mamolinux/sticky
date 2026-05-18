@@ -1,3 +1,13 @@
+sticky (1.31) zena; urgency=medium
+
+  [ Michael Webster ]
+  * .github/workflows: Add generate-test-packages trigger.
+
+  [ Stephen Collins ]
+  * Context menu: fix note groups getting 'stuck' or not updating properly
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 18 May 2026 14:10:15 +0100
+
 sticky (1.30) zena; urgency=medium
 
   * l10n: Update translations
