@@ -1,3 +1,10 @@
+sticky (1.32) alfa; urgency=medium
+
+  [ Michael Webster ]
+  * /usr/bin/sticky: Restrict to x11 backend.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 19 Aug 2026 14:51:00 +0200
+
 sticky (1.31) zena; urgency=medium
 
   [ Michael Webster ]
